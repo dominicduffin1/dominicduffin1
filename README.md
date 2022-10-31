@@ -1,11 +1,3 @@
-## Summary
-
-- ⌨️ I mainly write CSS, Elm, JavaScript & Python. My favourite IDE is VS Code.
-- 📚 I'm studying at the Open University (UK) and always learning new things in and out of formal studies.
-- 🐦 I co-founded and co-organise [#ArtTechChat](https://twitter.com/ArtTechChat), a weekly Twitter chat on technology, art and design held every Sunday at 1PM USA Eastern Time.
-- 🎨 I love CSS animations.
-- 🌐 I enjoy collaborating on interesting projects at the intersections of technology, economics, society, art, design or science.
-
 ## Stats
 [![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=dominicduffin1&theme=radical&show_icons=true)](https://github.com/dominicduffin1)
 
